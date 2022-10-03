@@ -1,0 +1,42 @@
+body{
+    margin: O;
+    padding: 0;
+}
+
+.navbar{
+    height: 20vh;
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+
+
+.logo{
+    color:white;
+    font-size: xx-large;
+    border: pink solid;
+}
+
+.header{
+    height: 80vh;
+    background-image:url("img/gettyimages-1284972696-640x640.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+span{
+    color:white;
+    text-transform: uppercase;
+}
+.lien{
+    font-size: 1,7em;
+    text-decoration: none;
+    color: white;
+
+}
